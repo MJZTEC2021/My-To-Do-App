@@ -9,6 +9,7 @@ function App() {
     { text: 'Build really cool to-do app', isCompleted: false },
     { text: 'Commit to GitHub', isCompleted: false },
     { text: 'Talk a walk', isCompleted: false},
+    { text: 'Enjoy life to the fullest daily', isCompleted: false},
   ]);
   
   const addTodo = (text) => {
